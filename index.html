@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<title>Feliz San Valentín ❤️</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- PANTALLA SORPRESA -->
+
+<div id="pantallaInicio" class="pantallaInicio">
+
+<div class="inicioCaja">
+
+<h2>💖 Pantalla secreta 💖</h2>
+
+<p>Coloca el nombre de tu novio</p>
+
+<input type="text" id="inputNombre" placeholder="Escribe su nombre">
+
+<button onclick="verificarNombre()">Entrar ❤️</button>
+
+<p id="error"></p>
+
+</div>
+
+</div>
+
+<!-- BIENVENIDA CINEMATOGRAFICA -->
+
+<div id="bienvenida" class="bienvenida">
+
+<h1 id="textoBienvenida"></h1>
+
+<p class="subBienvenida">Bienvenida, mi cochinita hermosa ❤️</p>
+
+</div>
+
+<!-- MUSICA -->
+
+<audio id="musica" loop>
+<source src="music.mp3" type="audio/mp3">
+</audio>
+
+
+<div class="corazones"></div>
+
+
+<div class="contenedor">
+
+
+<h1>Feliz San Valentín ❤️</h1>
+
+
+<div id="contador"></div>
+
+
+<button onclick="toggleMusica()" id="btnMusica">
+🎵 Reproducir música
+</button>
+
+
+
+<!-- GALERIA -->
+
+<div class="galeria">
+
+<img src="foto1.jpg">
+
+<img src="foto2.jpg">
+
+<img src="foto3.jpg">
+
+</div>
+
+
+
+<button onclick="iniciarCarta()">
+
+Abrir Carta 💌
+
+</button>
+
+
+
+<!-- CARTA -->
+
+<div class="carta">
+
+<p id="textoCarta"></p>
+
+</div>
+
+
+
+</div>
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
