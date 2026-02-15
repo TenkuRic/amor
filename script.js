@@ -60,67 +60,29 @@ btn.innerHTML="🎵 Reproducir música";
 
 const mensaje=`Hola, mi cochinita hermosa. ❤️
 
-Hoy es un día muy especial, y aunque la distancia nos separa físicamente, mi corazón está contigo en todo momento.
+Este día especial, lamentablemente, no lo pasé contigo por la gran distancia que nos separa, pero eso no quiere decir que no lo vayamos a celebrar.
 
-Quiero que sepas que cada día a tu lado, incluso en la distancia, ha sido uno de los regalos más hermosos que la vida me ha dado.
+Ya casi es un año y medio de relación, y han sido los mejores momentos de mi vida. 
 
-Ya casi es un año y medio desde que comenzamos este viaje juntos, y puedo decir con total seguridad que han sido los mejores meses de toda mi vida.
+Hubo peleas, hubo tristezas, hubo felicidad y también momentos de mucho significado para nosotros.
 
-Hemos pasado por momentos difíciles, por tristezas, por peleas, pero también por momentos llenos de amor, risas y recuerdos que jamás olvidaré.
+Es un largo camino el que hemos recorrido y, sinceramente, para mí valió completamente la pena. Este año viene con muchas sorpresas para nosotros. No solo por la libertad que te va a llegar, sino también las maravillas que lograremos ahora juntos: vivir juntos, trabajar y tener un pequeño espacio llamado hogar.
 
-Todo ese camino, cada paso, cada esfuerzo… valió completamente la pena, porque fue contigo.
+Estoy muy emocionado por volver a verte, y sé que pronto nosotros estaremos dormidos como bebés en la cama de nuestra pequeña y alquilada "casa"...
 
-Estoy muy emocionado por el futuro que nos espera.
+Sé que este detalle es muy poco en comparación de lo que debería hacer o demostrarte. 
 
-Por el día en que despertemos juntos.
+Es un poco injusto, lo se, pero hago mi pequeño esfuerzo para que se note que no estoy dejando pasar este día. 
 
-Por el día en que tengamos nuestro propio espacio.
+Por eso, mañana temprano te enviaré el dinerito para que compres ese lindo vestido que te taaanto te gustó. 
 
-Nuestro propio hogar.
+Tenía algo preparado para enviarte por Shalom, pero prefiero dártelo cuando vengas aquí. 
 
-Nuestro pequeño mundo.
+Estoy seguro de que te va a gustar mucho… solo espera el día en que vengas. Te amo mucho.
 
-Sueño con dormir contigo, abrazarte, y saber que al despertar seguirás ahí.
+Disfruta este día con tus amigas, lo mereces. Eres tan, pero tan linda y chambeadora que me encanta. Alguien tan bella como tú debe ser tratada como toda una reina.
 
-Gracias por existir.
-
-Gracias por amarme.
-
-Gracias por elegir quedarte.
-
-Eres una mujer increíble.
-
-Hermosa.
-
-Fuerte.
-
-Trabajadora.
-
-Valiente.
-
-Y completamente maravillosa.
-
-Me siento orgulloso de ti.
-
-Y me siento el hombre más afortunado por tenerte.
-
-Este detalle es pequeño, pero está hecho con todo mi corazón.
-
-Porque tú mereces todo.
-
-Mereces el mundo entero.
-
-Y prometo pasar mi vida intentando dártelo.
-
-Te amo más de lo que las palabras pueden explicar.
-
-Más de lo que cualquier carta puede escribir.
-
-Más de lo que cualquier página puede mostrar.
-
-Te amo infinitamente.
-
-Feliz San Valentín, mi amor. ❤️`;
+Te amo demasiado. Feliz San Valentín, mi amor. ❤️`;
 
 
 
